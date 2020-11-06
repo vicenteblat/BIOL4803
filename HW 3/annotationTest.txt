@@ -1,0 +1,8 @@
+GeneName	Chromosome	Strand	Start	Stop
+VV_RS00280	ChromosomeI	+	353	787
+trmE	ChromosomeII	R	835	2196
+VV_RS00290	ChromosomeII	-	2314	3
+VV_RS00295	ChromosomeII	-	4160	2
+rpmH	ChromosomeII	-	50	100
+VV_RS00280	ChromosomeII	f	353	787
+rpmH	ChromosomeII	x	4530	4670

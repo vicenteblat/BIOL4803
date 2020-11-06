@@ -1,0 +1,1 @@
+color red :VALcolor red :TRPcolor red :TRPcolor red :ARGcolor red :LEUcolor red :GLYcolor red :ILEcolor red :METcolor red :HIScolor red :TYRcolor red :CYS
